@@ -28,7 +28,7 @@
 </head>
 <body>
 
-<div class="cd">
+<div class="container">
     <?php printArray($database) ?>
 </div>
 
